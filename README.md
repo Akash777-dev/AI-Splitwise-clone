@@ -26,3 +26,4 @@ GEMINI_API_KEY=
 "# AI-Integrated-Expense-Splitting-App" 
 "# AI-Integrated-Expense-Splitting-App" 
 "# AI-Integrated-Expense-Splitting-App" 
+"# AI-Integrated-Expense-Splitting-App" 
