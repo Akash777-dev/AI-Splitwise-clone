@@ -23,3 +23,4 @@ RESEND_API_KEY=
 
 GEMINI_API_KEY=
 ```
+"# AI-Integrated-Expense-Splitting-App" 
